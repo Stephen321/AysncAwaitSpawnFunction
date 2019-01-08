@@ -7,3 +7,5 @@ passing in the result to the next call of **next** on the generator.
 
 # Video on async/await
 https://www.youtube.com/watch?v=lil4YCCXRYc
+
+The videos (better) implementation is shown at https://youtu.be/lil4YCCXRYc?t=1132
