@@ -9,4 +9,5 @@ passing in the result to the next call of **next** on the generator.
 https://www.youtube.com/watch?v=lil4YCCXRYc
 
 The videos (better) implementation is shown at https://youtu.be/lil4YCCXRYc?t=1132
-or also here: https://youtu.be/DqMFX91ToLw?t=1693
+
+or better explanation here: https://youtu.be/DqMFX91ToLw?t=1693
